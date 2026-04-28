@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "ec8b6fa5079762ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1a7b71ba348080e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "045f0a6440a0ab52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slime World/Mobs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mobs"
+            }
+          },
+          {
+            "id": "60052f5ea78ea7be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slime World/Items/Pink Gum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pink Gum"
+            }
+          },
+          {
+            "id": "b9b5c18b6187bdae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slime World/crops/Soft Berry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Soft Berry"
+            }
+          },
+          {
+            "id": "ebc8247ac0c8080a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slime World/Config.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Config"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5650dfc699396150",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ada7163b089038b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a0cfd0808715509",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "af148b7aa3e2a736",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "adebfc4f33186caa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "82bc266c0c2f0714",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e7c655301e67f0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f804fa300a0136ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mod List.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Mod List"
+            }
+          },
+          {
+            "id": "55bf9782aa9b240f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mod List.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Mod List"
+            }
+          },
+          {
+            "id": "27b4bd6cd7e3defe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "6cb75119872875af",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
+          },
+          {
+            "id": "a86df31c144356a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mod List.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Mod List"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false
+    }
+  },
+  "active": "ebc8247ac0c8080a",
+  "lastOpenFiles": [
+    "README.md",
+    "mc_mods/README.md",
+    "mc_mods",
+    "Slime World/crops/Soft Berry.md",
+    "Slime World/Config.md",
+    "Slime World/block/Gum machine.md",
+    "Slime World/block/GumBlock.md",
+    "Slime World/block/Solar panel.md",
+    "Slime World/Items/Pink Gum.md",
+    "Sans titre",
+    "Slime World/Items/Pink Slimeball.md",
+    "Slime World/Slimes/PinkSlimes.md",
+    "Slime World/nourriture/Soft Berry.md",
+    "Slime World/Items",
+    "Slime World/Biomes/Mainland.md",
+    "Slime World/nourriture/Pink Bubblegum.md",
+    "Mod List.md",
+    "Slime World/Events",
+    "Pasted image 20260428192535.png",
+    "Slime World/Items.md",
+    "Slime World/Tags/Fruit.md",
+    "Slime World/Tags/Vegetable.md",
+    "Slime World/Tags/Meat.md",
+    "Slime World/Tags",
+    "Slime World/CustomRecipeType",
+    "Slime World/Vehicule",
+    "Slime World/Biomes",
+    "Slime World/Structure",
+    "Slime World/Config",
+    "Bienvenue.md"
+  ]
+}
